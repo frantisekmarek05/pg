@@ -1,0 +1,219 @@
+[
+    {
+        "zeme": "Austrálie",
+        "mena": "dolar",
+        "mnozstvi": 1,
+        "kod": "AUD",
+        "kurz": 15.199
+    },
+    {
+        "zeme": "Brazílie",
+        "mena": "real",
+        "mnozstvi": 1,
+        "kod": "BRL",
+        "kurz": 3.958
+    },
+    {
+        "zeme": "Bulharsko",
+        "mena": "lev",
+        "mnozstvi": 1,
+        "kod": "BGN",
+        "kurz": 12.841
+    },
+    {
+        "zeme": "Čína",
+        "mena": "žen-min-pi",
+        "mnozstvi": 1,
+        "kod": "CNY",
+        "kurz": 3.291
+    },
+    {
+        "zeme": "Dánsko",
+        "mena": "koruna",
+        "mnozstvi": 1,
+        "kod": "DKK",
+        "kurz": 3.368
+    },
+    {
+        "zeme": "EMU",
+        "mena": "euro",
+        "mnozstvi": 1,
+        "kod": "EUR",
+        "kurz": 25.115
+    },
+    {
+        "zeme": "Filipíny",
+        "mena": "peso",
+        "mnozstvi": 100,
+        "kod": "PHP",
+        "kurz": 40.987
+    },
+    {
+        "zeme": "Hongkong",
+        "mena": "dolar",
+        "mnozstvi": 1,
+        "kod": "HKD",
+        "kurz": 3.074
+    },
+    {
+        "zeme": "Indie",
+        "mena": "rupie",
+        "mnozstvi": 100,
+        "kod": "INR",
+        "kurz": 28.167
+    },
+    {
+        "zeme": "Indonesie",
+        "mena": "rupie",
+        "mnozstvi": 1000,
+        "kod": "IDR",
+        "kurz": 1.502
+    },
+    {
+        "zeme": "Island",
+        "mena": "koruna",
+        "mnozstvi": 100,
+        "kod": "ISK",
+        "kurz": 17.214
+    },
+    {
+        "zeme": "Izrael",
+        "mena": "nový šekel",
+        "mnozstvi": 1,
+        "kod": "ILS",
+        "kurz": 6.666
+    },
+    {
+        "zeme": "Japonsko",
+        "mena": "jen",
+        "mnozstvi": 100,
+        "kod": "JPY",
+        "kurz": 15.661
+    },
+    {
+        "zeme": "Jižní Afrika",
+        "mena": "rand",
+        "mnozstvi": 1,
+        "kod": "ZAR",
+        "kurz": 1.344
+    },
+    {
+        "zeme": "Kanada",
+        "mena": "dolar",
+        "mnozstvi": 1,
+        "kod": "CAD",
+        "kurz": 16.854
+    },
+    {
+        "zeme": "Korejská republika",
+        "mena": "won",
+        "mnozstvi": 100,
+        "kod": "KRW",
+        "kurz": 1.671
+    },
+    {
+        "zeme": "Maďarsko",
+        "mena": "forint",
+        "mnozstvi": 100,
+        "kod": "HUF",
+        "kurz": 6.132
+    },
+    {
+        "zeme": "Malajsie",
+        "mena": "ringgit",
+        "mnozstvi": 1,
+        "kod": "MYR",
+        "kurz": 5.391
+    },
+    {
+        "zeme": "Mexiko",
+        "mena": "peso",
+        "mnozstvi": 1,
+        "kod": "MXN",
+        "kurz": 1.182
+    },
+    {
+        "zeme": "MMF",
+        "mena": "ZPČ",
+        "mnozstvi": 1,
+        "kod": "XDR",
+        "kurz": 31.43
+    },
+    {
+        "zeme": "Norsko",
+        "mena": "koruna",
+        "mnozstvi": 1,
+        "kod": "NOK",
+        "kurz": 2.145
+    },
+    {
+        "zeme": "Nový Zéland",
+        "mena": "dolar",
+        "mnozstvi": 1,
+        "kod": "NZD",
+        "kurz": 13.813
+    },
+    {
+        "zeme": "Polsko",
+        "mena": "zlotý",
+        "mnozstvi": 1,
+        "kod": "PLN",
+        "kurz": 5.889
+    },
+    {
+        "zeme": "Rumunsko",
+        "mena": "leu",
+        "mnozstvi": 1,
+        "kod": "RON",
+        "kurz": 5.056
+    },
+    {
+        "zeme": "Singapur",
+        "mena": "dolar",
+        "mnozstvi": 1,
+        "kod": "SGD",
+        "kurz": 17.791
+    },
+    {
+        "zeme": "Švédsko",
+        "mena": "koruna",
+        "mnozstvi": 1,
+        "kod": "SEK",
+        "kurz": 2.181
+    },
+    {
+        "zeme": "Švýcarsko",
+        "mena": "frank",
+        "mnozstvi": 1,
+        "kod": "CHF",
+        "kurz": 27.065
+    },
+    {
+        "zeme": "Thajsko",
+        "mena": "baht",
+        "mnozstvi": 100,
+        "kod": "THB",
+        "kurz": 70.525
+    },
+    {
+        "zeme": "Turecko",
+        "mena": "lira",
+        "mnozstvi": 100,
+        "kod": "TRY",
+        "kurz": 68.539
+    },
+    {
+        "zeme": "USA",
+        "mena": "dolar",
+        "mnozstvi": 1,
+        "kod": "USD",
+        "kurz": 23.9
+    },
+    {
+        "zeme": "Velká Británie",
+        "mena": "libra",
+        "mnozstvi": 1,
+        "kod": "GBP",
+        "kurz": 30.453
+    }
+]
