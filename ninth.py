@@ -23,3 +23,6 @@ def test_bin_to_dec():
     assert dec_to_bin(101) == "1100101"
     assert dec_to_bin(127) == "1111111"
     assert dec_to_bin("128") == "10000000"
+
+if __name__ == '__main__':
+    print(dec_to_bin(167))
